@@ -3,12 +3,6 @@
 # Overview
 This project uses a logistic regression model to predict the credit risk of loans. The goal is to classify loans as either healthy (0) or high-risk (1) based on historical data.
 
-# Results
-Accuracy: XX%
-Precision (Healthy Loans): XX%
-Precision (High-Risk Loans): XX%
-Recall (Healthy Loans): XX%
-Recall (High-Risk Loans): XX%
 
 
 # Summary
